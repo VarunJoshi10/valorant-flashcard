@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-valorantflashcard-dev-201055-authRole",
+      "UnauthRoleArn": "arn:aws:iam::039214558293:role/amplify-valorantflashcard-dev-201055-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::039214558293:role/amplify-valorantflashcard-dev-201055-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-valorantflashcard-dev-201055-deployment",
+      "UnauthRoleName": "amplify-valorantflashcard-dev-201055-unauthRole",
+      "StackName": "amplify-valorantflashcard-dev-201055",
+      "StackId": "arn:aws:cloudformation:ap-south-1:039214558293:stack/amplify-valorantflashcard-dev-201055/c96f9f50-23e6-11ee-8658-06b504eeac98",
+      "AmplifyAppId": "diifkxgsv889a"
+    },
+    "categories": {
+      "auth": {
+        "valorantflashcard0639254f": {}
+      }
+    }
+  }
+}
