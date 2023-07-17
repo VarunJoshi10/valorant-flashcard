@@ -1,0 +1,11 @@
+.agent-list-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+  }
+  
+  .agent-list-container img {
+    width: 100%;
+    height: auto;
+  }
+  
