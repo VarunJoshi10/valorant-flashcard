@@ -1,11 +1,15 @@
 import React from 'react';
 import './Agent.css'
-const Agent = ({ name, description, image }) => {
+
+// import styled from 'styled-components';
+
+
+const Agent = ({ name, description, displayIcon, color }) => {
   return (
     <div>
+      {/* <p>{description}</p> */}
+      <img src={displayIcon} alt={name}/>
       <h2>{name}</h2>
-      <p>{description}</p>
-      <img src={image} alt={name}/>
     </div>
   );
 };

@@ -3,7 +3,8 @@ const valorantTheme = {
       primary: '#7289DA',
       secondary: '#202020',
       accent: '#FF4655',
-      text: '#FFFFFF',
+      text: '#FF5252',
+      white: '#000000'
     },
     fonts: {
       primary: 'Roboto, sans-serif',
